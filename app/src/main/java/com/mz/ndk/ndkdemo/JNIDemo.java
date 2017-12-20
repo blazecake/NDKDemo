@@ -12,4 +12,5 @@ public class JNIDemo {
 
     public native String testJni();
 
+    public native String getPwd();
 }
